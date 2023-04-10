@@ -1,0 +1,17 @@
+{
+  "name": "quizzly-app",
+  "version": "1.0.0",
+  "description": "Express Quiz Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Eren",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
